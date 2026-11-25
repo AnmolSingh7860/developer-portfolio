@@ -1,0 +1,23 @@
+==========================================================
+ SYSTEM HEALTH & HARDWARE REPORT
+ Author      : Anmol Singh
+ Roll Number : 2601730086
+ Date        : 2026-11-23 14:45:43
+==========================================================
+
+--- 1. CPU Information ---
+Model : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+Cores : 8
+Load  :  0.22, 0.05, 0.02
+
+--- 2. Memory Usage ---
+Total: 3.5Gi | Used: 486Mi | Free: 2.6Gi | Available: 3.1Gi
+
+--- 3. Top 3 Processes by CPU Usage ---
+USER       PID      %CPU   %MEM   COMMAND
+root       1        5.4    0.4    /sbin/init
+root       143      2.2    0.8    /usr/bin/python3
+root       87       1.7    0.3    /usr/lib/systemd/systemd-udevd
+
+==========================================================
+Report generated successfully.
